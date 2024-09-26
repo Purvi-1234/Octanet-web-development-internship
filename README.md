@@ -1,3 +1,6 @@
+
+click here to view live:https://purvi-1234.github.io/Octanet-web-development-internship/
+
 Task 1 : landing page
 
 
